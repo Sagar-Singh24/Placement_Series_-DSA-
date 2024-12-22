@@ -1,8 +1,9 @@
 # Placement_Series_-DSA-
-So in this repo i am going to include all the code which were taught by Love babbar in his DSA with C++ Placement Series.
+In this repository, I will include all the code taught by Love Babbar in his DSA with C++ Placement Series.
 <br>
-It may take time but i will complete this.
+It may take some time, but I am determined to complete it.
 <br>
-The only matter is to be consistent and to push myself to complete this course.
+The key is to stay consistent and push myself to finish this course.
 <br>
-Thank You!!
+
+Thank you!
