@@ -13,3 +13,6 @@ This file contains the Problem solutions of Leetcode questions with Code.
 6.Find Duplicate
 <br>
 7.Find All Duplicate In Array
+<br>
+8.Intersection Of Two Array
+<br>
