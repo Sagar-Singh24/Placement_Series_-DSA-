@@ -17,3 +17,5 @@ This file contains the Problem solutions of Leetcode questions with Code.
 8.Intersection Of Two Array
 <br>
 9.Pair Sum
+<br>
+10.Sort01
