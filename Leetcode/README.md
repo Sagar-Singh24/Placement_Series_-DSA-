@@ -12,3 +12,4 @@ This file contains the Problem solutions of Leetcode questions with Code.
 <br>
 6.Find Duplicate
 <br>
+7.Find All Duplicate In Array
